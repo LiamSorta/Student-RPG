@@ -5,14 +5,6 @@ using UnityEngine.UI;
 
 public class TextWriter : MonoBehaviour {
 
-    ///////////////////////////
-    //*                     *//
-    //*    ~ Code by ~      *//
-    //*    Liam Biddle      *//
-    //* www.liamsorta.co.uk *//
-    //*                     *//
-    ///////////////////////////
-
     public GameObject selectText;                           //Prefab for text options.
     Text text;                                              //For quickly setting text.
     Animator animator;                                      //Grab animator.
